@@ -12,7 +12,9 @@
 环境要求：winxp-win10 32/64 或 MS-DOS7.10
 
 软件：
+     
      win环境：AMIDEWIN、AFUWIN
+     
      Dos环境：AMIDEDOS、AFUDOS
      
      可选：MS-DOS7.10.iso、DiskGenius、UltraISO
