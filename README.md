@@ -1,6 +1,6 @@
 # G41 bios l-ig41m3-v1.1
 
-本BIOS序列号为5VKT15A-US，为原厂Bios，未进行任何修改
+本BIOS序列号为5VKT15A-US，为原厂BIOS.ROM，未进行任何修改
 
 适用主板型号：L-IG41M3-v1.1 （型号必须完全一致，且只支持该型号主板）
 
